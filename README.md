@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋🏻, I'm Revangga Putra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3><br><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callmerev" alt="callmerev" /></a> </p><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedcodes" alt="callmerev" /></a> </p><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmerev&label=Profile%20views&color=0e75b6&style=plastic" alt="callmerev" /> </p>
 
