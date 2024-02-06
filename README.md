@@ -46,7 +46,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=callmerev&show_icons=true&theme=tokyonight&locale=en" alt="callmerev" /></p>
 
 
 
