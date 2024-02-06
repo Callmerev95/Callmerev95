@@ -48,5 +48,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=callmerev&show_icons=true&theme=tokyonight&locale=en" alt="callmerev" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=callmerev&theme=dark" alt="callmerev" /></p><br><br><br>
+
 
