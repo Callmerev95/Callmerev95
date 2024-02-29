@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmerev&label=Profile%20views&color=0e75b6&style=plastic" alt="callmerev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/callmerev" target="blank"><img src="https://img.shields.io/twitter/follow/callmerev?logo=twitter&style=for-the-badge" alt="callmerev" /></a> </p>
 
 - 🔭 I’m currently working on **Next JS**
 
