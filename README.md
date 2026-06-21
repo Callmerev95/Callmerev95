@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Callmerev95/Callmerev95/assets/154798324/03c16772-cb08-4549-bf59-63bd03aff2e0)
 
-<h1 align="center">Hello 👋🏻, I'm Revangga Putra</h1>
+<h1 align="center">Hello 👋🏻, I'm Revangga Brama Eka Putra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3><br><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedcodes" alt="callmerev" /></a> </p><br>
