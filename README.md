@@ -37,12 +37,11 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Callmerev95&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub streak (dark)" />
-  <img src="https://streak-stats.demolab.com?user=Callmerev95&hide_border=true&background=FFFFFF&stroke=0F0F0F&ring=0F0F0F&fire=0F0F0F&currStreakNum=0F0F0F&sideNums=0F0F0F&currStreakLabel=5C5C5C&sideLabels=5C5C5C&dates=ADB5BD#gh-light-mode-only" alt="GitHub streak (light)" />
-</p>
+  
 
 | Top Languages by Repo | Top Languages by Commit |
 |---|---|
-| ![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Callmerev95#gh-light-mode-only) ![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) | ![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Callmerev95#gh-light-mode-only) ![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) |
+|  ![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) |  ![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) |
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Callmerev95/Callmerev95/main/dist/github-snake.svg#gh-light-mode-only" alt="Contribution snake (light)" />
