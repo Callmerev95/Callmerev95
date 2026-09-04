@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Callmerev95">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=F2F2F2&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Revangga+Brama+Eka+Putra;Full-Stack+Web+Developer+%26+Software+Engineer;Next.js+%C2%B7+TypeScript+%C2%B7+Python#gh-dark-mode-only" alt="Typing intro (dark)" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=0F0F0F&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Revangga+Brama+Eka+Putra;Full-Stack+Web+Developer+%26+Software+Engineer;Next.js+%C2%B7+TypeScript+%C2%B7+Python#gh-light-mode-only" alt="Typing intro (light)" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=F2F2F2&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Revangga+Brama+Eka+Putra;Full-Stack+Web+Developer+%26+Software+Engineer;Next.js+%C2%B7+TypeScript+%C2%B7+Python#gh-dark-mode-only" alt="Typing intro (dark)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=0F0F0F&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Revangga+Brama+Eka+Putra;Full-Stack+Web+Developer+%26+Software+Engineer;Next.js+%C2%B7+TypeScript+%C2%B7+Python#gh-light-mode-only" alt="Typing intro (light)" />
   </a>
 </p>
 
