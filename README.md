@@ -19,14 +19,6 @@
 - Ask me about web scalability, API design, and UI engineering
 - Open to freelance, collaboration, and full-time roles
 
-## Featured Work
-
-| Project | Description |
-|---|---|
-| [Smart Living](https://github.com/Callmerev95/smart-living-API) ([live](https://smart-living-web-silk.vercel.app)) | Deterministic recipe recommendations from leftover ingredients — FastAPI engine, Next.js demo |
-| [kostFlow](https://github.com/Callmerev95/kostFlow) | Premium property management for boarding houses — Next.js, Prisma, automated invoicing, WhatsApp integration |
-| [RE_POS](https://github.com/Callmerev95/RE_POS) | Integrated POS for cafés & restaurants — Next.js 16, real-time inventory, PWA offline-first |
-
 ## Tech Stack
 
 <p align="left">
