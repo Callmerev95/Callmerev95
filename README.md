@@ -42,6 +42,11 @@
 
 | Top Languages by Repo | Top Languages by Commit |
 |---|---|
-| ![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Callmerev95&theme=github#gh-light-mode-only) ![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) | ![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Callmerev95&theme=github_dark#gh-light-mode-only) ![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) |
+| ![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Callmerev95&theme=github#gh-light-mode-only) ![Top Langs Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) | ![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Callmerev95&theme=github#gh-light-mode-only) ![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Callmerev95&theme=github_dark#gh-dark-mode-only) |
 
-Wait, I made an error in the commit table light variant URL (copied github_dark for the light fragment on the second cell). Fix: the Most-commit-language light image should use theme=github. Let me correct that row before committing.
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Callmerev95/Callmerev95/main/dist/github-snake.svg#gh-light-mode-only" alt="Contribution snake (light)" />
+  <img src="https://raw.githubusercontent.com/Callmerev95/Callmerev95/main/dist/github-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake (dark)" />
+</p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Callmerev95&label=Profile+views&color=6e7681&style=flat" alt="Profile views" /></p>
