@@ -28,7 +28,7 @@
 
 ## Featured
 
-- [Chordly](https://github.com/Callmerev95/Chordly) — music player for YouTube Music on Android: synced lyrics, album-art-adaptive gradients, a personal home feed. Kotlin Multiplatform + Compose Multiplatform, one universal APK.
+- [Chordly](https://chordly.my.id) — music player for YouTube Music on Android: synced lyrics, album-art-adaptive gradients, a personal home feed. Kotlin Multiplatform + Compose Multiplatform, one universal APK. ([repo](https://github.com/Callmerev95/Chordly))
 - [StaticCred](https://cards.callmerev.my.id) — print-ready Google/TripAdvisor review cards: 300 DPI Canvas pipeline, blank-serial activation via KV. ([repo](https://github.com/Callmerev95/StaticCred))
 - [Invoice Manager](https://invoice-manager.callmerev.my.id) — invoicing for Indonesian freelancers: immutable invoices, audit-tracked adjustments, branded PDFs. ([repo](https://github.com/Callmerev95/Invoice-Manager))
 - [Cashtrix](https://github.com/Callmerev95/Cashtrix) — React Native/Expo mobile finance on Supabase, targeting Play Store and App Store. (in progress)
